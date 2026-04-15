@@ -5,16 +5,16 @@
   I'm a Computer Engineering Student focused in full-stack development and creating the best solutions in my projects with the objective of achieving the excelence.
 </p>
 <p>
-- 📚 I’m currently studing on Universidad de Guadalajara, CUCEI.
-- 🤖 I’m currently learning about AI as an ethusiatic tool for development.
+- 📚 I’m currently studing on Universidad de Guadalajara, CUCEI.<br>
+- 🤖 I’m currently learning about AI as an ethusiatic tool for development.<br>
 - 🚀 Future Goals: Achieve my Bechalor's Degree. 
 </p>
 <h2>
   📱 Social Links:
 </h2>
 <p>
-  <a href="mailto:alanhazaguirre@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/alan-haziel-aguirre-garcia-994520367"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:alanhazaguirre@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><br>
+  <a href="https://www.linkedin.com/in/alan-haziel-aguirre-garcia-994520367"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br>
   <a href="https://github.com/AlanAguirre21/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 <h2>
