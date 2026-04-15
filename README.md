@@ -13,20 +13,20 @@
   📱 Social Links:
 </h2>
 <p>
-  <a href="mailto:alanhazaguirre@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><br>
-  <a href="https://www.linkedin.com/in/alan-haziel-aguirre-garcia-994520367"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br>
+  <a href="mailto:alanhazaguirre@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/alan-haziel-aguirre-garcia-994520367"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/AlanAguirre21/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 <h2>
   💻 Programming Languages:
 </h2>
 <p align="center">
-[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,css,html,js,php,py&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,php,py)](https://skillicons.dev)
 </p>
 <h2>
   🧰 Tools:
 </h2>
 <p align="center">
-[![Tools](https://skillicons.dev/icons?i=git,github,sublime,vscode,mysql,postgres&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,sublime,vscode,mysql,postgres)](https://skillicons.dev)
 </p>
 
