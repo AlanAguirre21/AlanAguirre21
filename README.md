@@ -6,8 +6,8 @@
 </p>
 <p>
 - 📚 I’m currently studing on Universidad de Guadalajara, CUCEI.<br>
-- 🤖 I’m currently learning about AI as an ethusiatic tool for development.<br>
-- 🚀 Future Goals: Achieve my Bechalor's Degree. 
+- 🤖 I’m currently learning about AI because of its great potential.<br>
+- 🚀 Future Goals: Achieve my Bachelor's Degree. 
 </p>
 <h2>
   📱 Social Links:
