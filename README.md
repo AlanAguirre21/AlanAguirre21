@@ -21,12 +21,15 @@
   💻 Programming Languages:
 </h2>
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,php,py)](https://skillicons.dev)
+  <a href="https://skillicons.dev"></a>
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,php,py"/>
 </p>
 <h2>
   🧰 Tools:
 </h2>
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=git,github,sublime,vscode,mysql,postgres)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,sublime,vscode,mysql,postgres"/>
+  </a>
 </p>
 
