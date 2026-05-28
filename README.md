@@ -22,7 +22,7 @@
 </h2>
 <p align="center">
   <a href="https://skillicons.dev"></a>
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,java-dark,php,py"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,java,php,py"/>
 </p>
 <h2>
   🧰 Tools:
