@@ -29,7 +29,8 @@
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,sublime,vscode,mysql,postgres,anaconda,figma,matlab,bootstrap,androidstudio"/>
+    <img src="https://skillicons.dev/icons?
+        i=git,github,sublime,vscode,mysql,postgres,mongodb,anaconda,figma,matlab,bootstrap,androidstudio,nodejs,npm,djangolinux"/>
   </a>
 </p>
 
